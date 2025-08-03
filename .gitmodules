@@ -1,6 +1,6 @@
 [submodule "tests/munit"]
 	path = tests/munit
-	url = https://github.com/ngtcp2/munit
+	url = https://github.com/TallySolutions/munit.git
 [submodule "lib/sfparse"]
 	path = lib/sfparse
-	url = https://github.com/ngtcp2/sfparse
+	url = https://github.com/TallySolutions/sfparse.git
